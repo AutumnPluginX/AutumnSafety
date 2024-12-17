@@ -10,6 +10,6 @@
 `/AutSa banmod lits` 列出被禁止的MOD  
 `/AutSa banmod add <ModName>` 添加禁止的MOD  
 `/AutSa banmod remove <ModName>` 移除禁止的MOD  
-`/AutSa reload` 重载配置文件
-`/AutSa deopall` 撤销(除自己外)所有玩家的op权限
+`/AutSa reload` 重载配置文件  
+`/AutSa deopall` 撤销(除自己外)所有玩家的op权限  
 `/AutSa gmall <int>` 修改(除自己外)所有玩家的游戏模式
