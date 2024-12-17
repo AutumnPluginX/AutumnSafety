@@ -1,5 +1,5 @@
 # AutumnSafety
-## AutumnSafety是一款服务器安全插件
+## AutumnSafety是一款为Minecraft制作的服务器Paper插件
 他能做什么呢？
 - 阻止大部分常见的Minecraft黑客户端MOD进入服务器
 - 每时每刻监控玩家的行为，对异常行为进行记录，在必要的情况下踢出作弊玩家
